@@ -1,4 +1,4 @@
-package lotto649;
+package lotto649_Arwen;
 
 public class lotto_Arwen {
 

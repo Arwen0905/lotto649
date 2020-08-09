@@ -1,4 +1,4 @@
 
 public class test_Eric {
-	12345
+//	12345
 }
